@@ -1,12 +1,70 @@
-# React + Vite
+# PassManage 🔐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure password management application designed to store and manage user credentials with a clean and responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Key Features
 
-## Expanding the ESLint configuration
+* 🔐 Secure password storage
+* 📋 Add, edit, and delete credentials
+* ⚡ Fast and responsive UI
+* 🔎 Easy access and management of stored data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+* Frontend: React / Next.js
+* Backend: Node.js (if used)
+* Storage: Local storage / database
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img width="1873" height="1250" alt="image" src="https://github.com/user-attachments/assets/5bb30c62-37d4-4a77-a74c-1b93bfca658f" />
+
+</p>
+
+---
+
+## 🧠 How It Works
+
+* Users can store credentials securely
+* Data is managed efficiently for quick access
+* UI updates dynamically for smooth experience
+
+---
+
+## ⚡ Challenges Faced
+
+* Managing sensitive data securely
+* Handling state efficiently
+* Designing clean and user-friendly UI
+
+---
+
+## 🚀 Future Improvements
+
+* Add encryption for passwords
+* User authentication system
+* Cloud sync support
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Pranaykumarjha/PassManage.git
+cd PassManage
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates handling user data, building secure UI flows, and designing practical web applications.
