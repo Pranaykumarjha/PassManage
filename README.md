@@ -10,7 +10,7 @@ A secure password management application designed to store and manage user crede
 * 📋 Add, edit, and delete credentials
 * ⚡ Fast and responsive UI
 * 🔎 Easy access and management of stored data
-* Passwords are encrypted before storage to enhance security
+* 🔐 Passwords are encrypted before storage to enhance security
 
 ---
 
